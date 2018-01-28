@@ -56,6 +56,31 @@ tags:
 	myApp.attach(document.body);
 ```
 
+列表渲染(s-if)
+
+San 的条件判断不是严格的 === false。所以，一切 JavaScript 的假值都会认为条件不成立：0、空字符串、null、undefined、NaN等。
+
+```
+    <span s-if="isOK">Hello San!</span>
+```
+
+s-elif 指令可以给 s-if 增加一个额外条件分支块。s-elif 指令的值可以是任何类型的表达式。
+
+```
+    <span s-if="isActive">Active</span>
+	<span s-elif="isOnline">Pending</span>
+	<span s-else>Offline</span>
+```
+
+虚拟元素 template ，在渲染时不会包含自身，只会渲染其内容。
+
+```
+    <template s-if="num > 10000">
+        <h2>biiig</h2>
+        <p>{{num}}</p>
+    </template>
+```
+
 
 #### 数据的绑定
 
