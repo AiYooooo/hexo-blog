@@ -15,3 +15,5 @@ aishuangying's blog
 
 ### San 系列
 [San基本用法](./source/_posts/san1.md)
+
+[San事件处理及表单提交](./source/_posts/san2.md)
