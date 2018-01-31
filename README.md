@@ -17,3 +17,5 @@ aishuangying's blog
 [San基本用法](./source/_posts/san1.md)
 
 [San事件处理及表单提交](./source/_posts/san2.md)
+
+[San插槽](./source/_posts/san3.md)
