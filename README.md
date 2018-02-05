@@ -21,3 +21,5 @@ aishuangying's blog
 [San插槽](./source/_posts/san3.md)
 
 [San过渡](./source/_posts/san4.md)
+
+[San组件](./source/_posts/san5.md)
