@@ -2,6 +2,10 @@
 
 aishuangying's blog
 
+旧的博客下线了，用到的时候再一篇篇得整理到Github上来，线上地址
+
+[艾双英的博客](http://blog.aishuangying.com)
+
 ### Node.js 系列
 [koa基本用法](./source/_posts/koa1.md)
 
@@ -23,3 +27,6 @@ aishuangying's blog
 [San过渡](./source/_posts/san4.md)
 
 [San组件](./source/_posts/san5.md)
+
+### San 系列
+[VPS搭建VPN](./source/_posts/VPS.md)
