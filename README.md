@@ -17,6 +17,8 @@ aishuangying's blog
 
 [LeetCode_214](./source/_posts/LeetCode_214.md)
 
+[LeetCode_65](./source/_posts/LeetCode_65.md)
+
 ### San 系列
 [San基本用法](./source/_posts/san1.md)
 
@@ -28,5 +30,5 @@ aishuangying's blog
 
 [San组件](./source/_posts/san5.md)
 
-### San 系列
+### VPS
 [VPS搭建VPN](./source/_posts/VPS.md)

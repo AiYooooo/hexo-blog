@@ -2,7 +2,7 @@
 layout: post
 title: "使用VPS搭建VPN"
 subtitle: "没错，小梯子"
-date: 2017-12-20
+date: 2018-1-20
 author: "Ai Shuangying"
 header-img: "hack.jpeg"
 cdn: 'header-on'
