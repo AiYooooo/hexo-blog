@@ -32,3 +32,6 @@ aishuangying's blog
 
 ### VPS
 [VPS搭建VPN](./source/_posts/VPS.md)
+
+### Nginx
+[Nginx的安装及配置](./source/_posts/nginx.md)
