@@ -18,7 +18,7 @@ tags:
 ----------
 
 
-### 安装Nginx
+### 安装及配置Nginx
 -------------
 
 ```
@@ -81,3 +81,58 @@ sudo nginx -t
 //检查通过后重启nginx
 sudo nginx -s reload
 ```
+
+
+### Nginx转发
+-------------
+
+配置Nginx根据子域名转发至不同端口
+
+```
+upstream wwwson {
+    server 127.0.0.1:18080;
+}
+
+server {
+    listen 80;
+    server_name www.********.com;
+
+    location / {
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forward-For $proxy_add_x_forwarded_for;
+        proxy_set_header Host $http_host;
+        proxy_set_header X-Nginx-Proxy true;
+
+        proxy_pass http://wwwson;
+        proxy_redirect off;
+    }
+}
+```
+
+```
+upstream introson {
+    server 127.0.0.1:18081;
+}
+
+server {
+    listen 80;
+    server_name intro.********.com;
+
+    location / {
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forward-For $proxy_add_x_forwarded_for;
+        proxy_set_header Host $http_host;
+        proxy_set_header X-Nginx-Proxy true;
+
+        proxy_pass http://introson;
+        proxy_redirect off;
+    }
+
+    //此处配置返回静态文件
+    location ~* ^.+\.(jpg|jpeg|gif|png|ico|css|js|pdf|txt){
+        root /www/path/to/project;   //配置静态文件的源地址
+    }
+}
+```
+
+只需要分别配置这些文件，根据不同的域名转发至不同的端口，然后重启Nginx即可。
