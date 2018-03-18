@@ -36,6 +36,8 @@ aishuangying's blog
 ### Nginx
 [Nginx的安装及配置](./source/_posts/nginx.md)
 
+[Nginx部署静态网页](./source/_posts/nginx_static.md)
+
 ### Webpack
 [webpack笔记](./source/_posts/webpack.md)
 
