@@ -37,4 +37,7 @@ aishuangying's blog
 [Nginx的安装及配置](./source/_posts/nginx.md)
 
 ### Webpack
-[webpack初学笔记](./source/_posts/webpack.md)
+[webpack笔记](./source/_posts/webpack.md)
+
+### mockapi
+[两种常用的前端api模拟工具](./source/_posts/mockapi.md)

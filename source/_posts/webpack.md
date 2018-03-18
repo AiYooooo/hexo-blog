@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "webpack初学笔记"
+title: "webpack笔记"
 subtitle: "包含常见Loader、Plugin等"
 date: 2018-2-2
 author: "Ai Shuangying"
