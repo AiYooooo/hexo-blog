@@ -43,3 +43,6 @@ aishuangying's blog
 
 ### mockapi
 [两种常用的前端api模拟工具](./source/_posts/mockapi.md)
+
+### Netlify
+[使用Netlify部署静态网页](./source/_posts/netlify.md)
