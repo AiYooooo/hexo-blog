@@ -6,6 +6,9 @@ aishuangying's blog
 
 [艾双英的博客](http://blog.aishuangying.com)
 
+### Redux
+[Redux学习笔记](./source/_posts/redux.md)
+
 ### Node.js 系列
 [koa基本用法](./source/_posts/koa1.md)
 
