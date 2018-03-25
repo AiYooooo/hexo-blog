@@ -9,6 +9,8 @@ aishuangying's blog
 ### Redux
 [Redux学习笔记](./source/_posts/redux.md)
 
+[Redux-todos代码分析](./source/_posts/redux-todos.md)
+
 ### Node.js 系列
 [koa基本用法](./source/_posts/koa1.md)
 
