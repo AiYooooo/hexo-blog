@@ -29,29 +29,8 @@ aishuangying's blog
 
 ### San 系列
 
-name | age
----- | ---
-LearnShare | 12
-Mike |  32
-
-name
----- | ---
-LearnShare | 12
-Mike |  32
-
-| :----: 							    | :----: 										| :----: 							|
-| [San基本用法](./source/_posts/san1.md) | [San事件处理及表单提交](./source/_posts/san2.md) | [San插槽](./source/_posts/san3.md) |
-| [San过渡](./source/_posts/san4.md)		| [San组件](./source/_posts/san5.md)				|
-
-[San基本用法](./source/_posts/san1.md)
-
-[San事件处理及表单提交](./source/_posts/san2.md)
-
-[San插槽](./source/_posts/san3.md)
-
-[San过渡](./source/_posts/san4.md)
-
-[San组件](./source/_posts/san5.md)
+[San基本用法](./source/_posts/san1.md) | [San事件处理及表单提交](./source/_posts/san2.md) | [San插槽](./source/_posts/san3.md)
+[San过渡](./source/_posts/san4.md) |  [San组件](./source/_posts/san5.md)
 
 ### fetch
 [fetch笔记](./source/_posts/fetch.md)
