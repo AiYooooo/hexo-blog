@@ -46,6 +46,25 @@ chmod +x shadowsocks.sh
 
 //程序执行完成后需要到/etc/shadowsocks.json文件中将server 0.0.0.0改成自己vps的ip
 
+//多用户配置
+{
+    "server":"0.0.0.0",
+    "local_address":"127.0.0.1",
+    "local_port":1080,
+    "port_password":{
+         "8989":"password0",
+         "9001":"password1",
+         "9002":"password2"
+    },
+    "timeout":300,
+    "method":"your_encryption_method",
+    "fast_open": false
+}
+启动：/etc/init.d/shadowsocks start
+停止：/etc/init.d/shadowsocks stop
+重启：/etc/init.d/shadowsocks restart
+状态：/etc/init.d/shadowsocks status
+
 //结束
 //自己电脑上下载Shadowsocks客户端（Mac OS上为ShadowsocksX-NG）输入自己的配置即可
 ```
