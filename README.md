@@ -14,6 +14,9 @@ aishuangying's blog
 ### React Native
 [React Native路由回调](./source/_posts/reactnative.md)
 
+### JavaScript
+[常见JS方法总结 -- 去重、对象处理](./source/_posts/jsfunctions.md)
+
 ### Node.js
 [koa基本用法](./source/_posts/koa1.md)
 
