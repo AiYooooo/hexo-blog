@@ -1,0 +1,66 @@
+# Meta
+description: AiShuangying's blog.
+keywords: hexo,blog,aishuangying
+
+# Navigation
+navigation:
+- name: 主页
+  slug: home
+  url: /
+# - name: web development
+#   slug: web development
+#   url: /tags/web-development/
+# - name: soft
+#   slug: soft
+#   url: /tags/soft/
+# - name: os
+#   slug: os
+#   url: /tags/os/
+- name: 概览
+  slug: archives
+  url: /archives
+# - name: About
+#   slug: About
+#   url: /about/
+
+# Friendly link
+links:
+  - name: Resume
+    url: https://resume.aishuangying.com
+  - name: ES6入门
+    url: http://es6.ruanyifeng.com/
+  # - name: 设计有点货
+  #   url: http://sjydh.me/
+  # - name: Web fundamentals
+  #   url: https://developers.google.com/web/fundamentals/
+
+# Social account
+social:
+- slug: twitter
+  url: https://twitter.com/AiLasuoer
+- slug: github
+  url: https://github.com/AiYooooo
+- slug: facebook
+  url: # https://www.facebook.com/some
+# - slug: linkedin
+#   url: https://www.linkedin.com/some
+# - slug: weibo
+#   url: http://weibo.com/309683593
+# - slug: tumblr
+#   url: http://ggice.tumblr.com/
+# - slug: dribbble
+#   url: https://dribbble.com/ggice
+- slug: email
+  url: mailto:aishuangying@gmail.com
+# - slug: rss
+# 	url: /atom.xml
+
+# Google analytics
+google_analytics: UA-117165916-1
+
+# Local search
+local_search:
+  enable: true
+
+# Favicon
+favicon: https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png

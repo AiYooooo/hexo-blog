@@ -48,9 +48,11 @@ aishuangying's blog
 [VPS搭建VPN](./source/_posts/VPS.md)
 
 ### Nginx
-[Nginx的安装及配置](./source/_posts/nginx.md)
+[免备案使用国内服务器 -- Nginx配置SSL证书](./source/_posts/Nginx配置SSL证书.md)
 
-[Nginx部署静态网页](./source/_posts/nginx_static.md)
+[在一台服务器上配置多个程序 -- Nginx的安装及配置](./source/_posts/Nginx的安装及配置.md)
+
+[在不同的文件夹中部署静态网站 -- Nginx部署静态网页](./source/_posts/Nginx部署静态网页.md)
 
 ### Webpack
 [webpack笔记](./source/_posts/webpack.md)

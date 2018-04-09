@@ -3,58 +3,20 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Ai SY
-subtitle:
-author: Ai Shuangying
+title: AiBlog
+subtitle: AiShuangying's blog
+description: Blog 
+keywords: Blog
+author: AiShuangying
 language:
 timezone: Asia/Shanghai
 
-ba_track_id: e9e0f1af5865948efb82b6d81a40706f
-
-# img CDN path
-cdn-url:  http://p16x0sr4t.bkt.clouddn.com/
-
-# custom Site settings
-# more detail check out docs
-SEOTitle: AiSY's blog 
-header-img: time2.jpeg
-email: aishuangying@gmail.com
-description: "艾双英的个人博客"
-keyword: # seo key words
-
-favicon: # your favicon png
-# custom end
-
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.aishuangying.com
+url: https://blog.aishuangying.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-
-# SNS settings
-# RSS:
-weibo_username: AiLasuoer
-zhihu_username: aiaiaiaigod
-github_username: AiYooooo
-twitter_username:
-facebook_username:
-linkedin_username:
-
-# Sidebar settings
-sidebar-about-description: love is everything
-sidebar-avatar: https://avatars0.githubusercontent.com/u/23543655?s=400&u=7cede176a70e4eec825d14f79f25d0e4194311f2&v=4
-
-# Featured Tags
-featured-tags: true
-featured-condition-size: 1 
-
-friends: [
-  {
-    title: individual resume,
-    href: http://resume.aishuangying.com/
-  }
-]
 
 # Directory
 source_dir: source
@@ -108,40 +70,12 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
-markdown:
-  plugins:
-    - markdown-it-abbr
-    - markdown-it-footnote
-    - markdown-it-ins
-    - markdown-it-sub
-    - markdown-it-sup
-    - markdown-it-emoji
-
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: anisina
+theme: hexo-icer
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/AiYooooo/hexo-blog.git
-  branch: master
-  message: 
-
-
-
-# Qiniu imageView2 API
-# More info http://developer.qiniu.com/code/v6/api/kodo-api/image/imageview2.html
-clip-content: "?imageView2/1/w/1400/h/400/interlace/1/q/90"
-clip-avatar: "?imageView2/2/w/300/h/300/interlace/1/q/90"
-clip-home-post-bg: "?imageView2/1/w/800/h/300/interlace/1/q/70"
-
-# post default images
-post-default-img: time2.jpeg
-post-default-img-mobile: time2.jpeg
-
-archive:
-    title: archives
-    description: 可以根据归档日期检索所有文件
+  type:
