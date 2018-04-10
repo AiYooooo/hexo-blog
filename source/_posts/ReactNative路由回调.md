@@ -1,11 +1,8 @@
 ---
 layout: post
-title: "React Native路由回调"
-subtitle: "goBack触发页面重绘"
+title: "ReactNative路由回调"
 date: 2018-2-28
 author: "Ai Shuangying"
-header-img: "hack.jpeg"
-cdn: 'header-on'
 tags:
 	- ReactNative
 ---

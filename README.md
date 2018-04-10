@@ -12,7 +12,9 @@ aishuangying's blog
 [Redux-todos代码分析](./source/_posts/redux-todos.md)
 
 ### React Native
-[React Native路由回调](./source/_posts/reactnative.md)
+[goBack触发页面重绘 -- React Native路由回调](./source/_posts/ReactNative路由回调.md)
+
+[react-native-echarts在安卓下可滑动的问题](./source/_posts/react-native-echarts在安卓下可滑动的问题.md)
 
 ### JavaScript
 [常见JS方法总结 -- 去重、对象处理](./source/_posts/jsfunctions.md)
