@@ -47,6 +47,9 @@ aishuangying's blog
 ### VPS
 [VPS搭建VPN](./source/_posts/VPS.md)
 
+### Sublime
+[Sublime使用SFTP上传文件](./source/_posts/Sublime使用SFTP上传文件.md)
+
 ### Nginx
 [免备案使用国内服务器 -- Nginx配置SSL证书](./source/_posts/Nginx配置SSL证书.md)
 
