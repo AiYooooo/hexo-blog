@@ -6,6 +6,9 @@ aishuangying's blog
 
 [艾双英的博客](http://blog.aishuangying.com)
 
+### ES6
+[浅谈Promise和async function](./source/_posts/浅谈Promise.md)
+
 ### Redux
 [Redux学习笔记](./source/_posts/redux.md)
 
