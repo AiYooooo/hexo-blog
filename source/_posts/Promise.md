@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "浅谈Promise和async function"
+title: "浅谈Promise"
 date: 2018-3-25
 author: "Ai Shuangying"
 tags:
 	- ES6
 ---
 
+----------
 
 最近看到一个问题，如下：
 
