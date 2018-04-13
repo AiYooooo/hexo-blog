@@ -24,6 +24,8 @@ aishuangying's blog
 
 [mongoose的基础知识-Node.js](./source/_posts/node_mongoose_1.md)
 
+### Angular
+[Angular页面应用添加扫描二维码功能](./source/_posts/Angular页面应用添加扫描二维码功能.md)
 
 ### LeetCode
 [LeetCode_3](./source/_posts/LeetCode_3.md)
