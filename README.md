@@ -22,6 +22,8 @@ aishuangying's blog
 ### JavaScript
 [常见JS方法总结 -- 去重、对象处理](./source/_posts/jsfunctions.md)
 
+[常见的几种跨域方法](./source/_posts/JS跨域笔记.md)
+
 ### Node.js
 [koa基本用法](./source/_posts/koa1.md)
 
