@@ -24,6 +24,9 @@ yum -y install nginx
 //安装成功后检查版本
 nginx -v
 
+//第一次启动Nginx
+sudo service nginx start
+
 //配置Nginx
 cd /etc/nginx
 
