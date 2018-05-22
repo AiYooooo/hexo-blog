@@ -58,20 +58,6 @@ tags:
 在JS文件中初始化插件就可以了
 
 ```
-app.get('*', function(req, res) {
-  let callback = req.query.func;
-  let content = callback+"({'message':'测试数据2'})";
-  res.send(content);
-});
-```
-
-通过动态插入script标签的方式，利用script标签的src属性发起请求，来达到跨域的目的。
-
-jsonp的方式兼容性非常好，即便是那些老古董浏览器，也可以用jsonp的方式解决跨域问题，但是它也有所限制，它只能使用get方式发起请求，并且对于不同域之间页面的js互相调用无能为力。
-
-jQuery很早就支持了jsonp的语法糖
-
-```
     //HTML
     <div id="plugin_wrap"></div>
 
