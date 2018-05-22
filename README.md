@@ -24,6 +24,8 @@ aishuangying's blog
 
 [常见的几种跨域方法](./source/_posts/JS跨域笔记.md)
 
+[简单的JQuery插件开发](./source/_posts/jQueryPlugins.md)
+
 ### Node.js
 [koa基本用法](./source/_posts/koa1.md)
 
