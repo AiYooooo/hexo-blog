@@ -26,6 +26,8 @@ aishuangying's blog
 
 [简单的JQuery插件开发](./source/_posts/jQueryPlugins.md)
 
+[由一个啼笑皆非的小bug想到的](./source/_posts/数组循环添加问题分析.md)
+
 ### Node.js
 [koa基本用法](./source/_posts/koa1.md)
 
