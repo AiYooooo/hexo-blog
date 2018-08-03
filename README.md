@@ -9,7 +9,9 @@ aishuangying's blog
 ### ES6
 [浅谈Promise和async function](./source/_posts/Promise.md)
 
-[ES6复习笔记(一)](./source/_posts/es6-notebook01.md)
+[ES6复习笔记(一)：声明、解构赋值](./source/_posts/es6-notebook01.md)
+
+[ES6复习笔记(二)：字符串、数值](./source/_posts/es6-notebook02.md)
 
 ### Redux
 [Redux学习笔记](./source/_posts/redux.md)
