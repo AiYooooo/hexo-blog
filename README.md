@@ -77,6 +77,8 @@ aishuangying's blog
 
 [在不同的文件夹中部署静态网站 -- Nginx部署静态网页](./source/_posts/Nginx部署静态网页.md)
 
+[Nginx配置跨域信息](./source/_posts/Nginx配置跨域信息.md)
+
 ### Webpack
 [webpack笔记](./source/_posts/webpack.md)
 
