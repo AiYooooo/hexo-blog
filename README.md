@@ -6,6 +6,9 @@ aishuangying's blog
 
 [艾双英的博客](http://blog.aishuangying.com)
 
+### 微信小程序&wepy
+[wepy开发微信小程序过程中的要点](./source/_posts/wepy开发中需要注意的点.md)
+
 ### ES6
 [浅谈Promise和async function](./source/_posts/Promise.md)
 
