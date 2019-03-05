@@ -6,6 +6,9 @@ aishuangying's blog
 
 [艾双英的博客](http://blog.aishuangying.com)
 
+### Vue
+[从Vue理解MVVM模式](./source/_posts/从Vue理解MVVM模式.md)
+
 ### 微信小程序&wepy
 [wepy开发微信小程序过程中的要点](./source/_posts/wepy开发中需要注意的点.md)
 
