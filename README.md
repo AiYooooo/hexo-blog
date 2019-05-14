@@ -9,6 +9,8 @@ aishuangying's blog
 ### Vue
 [从Vue理解MVVM模式](./source/_posts/从Vue理解MVVM模式.md)
 
+[Vue及Node打通前后端RSA加密](./source/_posts/Vue及Node打通前后端RSA加密.md)
+
 ### 微信小程序&wepy
 [wepy开发微信小程序过程中的要点](./source/_posts/wepy开发中需要注意的点.md)
 
