@@ -12,6 +12,8 @@ tags:
 
 最近项目里用到，用Vue和Node写了一个前后端RSA加密的demo，记录一下。
 
+在线地址： [登录加密demo](https://encrypt.aiyo.tech/)
+
 ### RSA
 -------------
 
